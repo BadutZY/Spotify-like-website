@@ -162,7 +162,7 @@ function initializeAdminAccount() {
         users.push({
             username: 'BadutZY',
             email: 'badutzy@gmail.com',
-            password: 'BadutZY',
+            password: 'Amanda123',
             profilePic: '',
             isAdmin: true
         });
